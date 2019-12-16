@@ -10,7 +10,7 @@ filesystem:
 config_schema:
 libs:
   - origin: https://github.com/sayalisawant452/sayali/tree/master/final_RTC
-  - origin: https://github.com/esp8266/Arduino/tree/master/libraries/Wire
+  - origin: 
   
 
 tags:

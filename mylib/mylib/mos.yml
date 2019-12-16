@@ -1,0 +1,18 @@
+author: mongoose-os
+type: lib
+description: An empty lib that does nothing
+version: 1.0
+
+sources:
+  - src
+filesystem:
+  - fs
+config_schema:
+libs:
+  - name: mylib
+
+tags:
+  - c
+  - docs:misc:Empty
+
+manifest_version: 2017-09-29

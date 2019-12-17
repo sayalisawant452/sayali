@@ -1,5 +1,5 @@
-author: mongoose-os
-description: A Mongoose OS app skeleton
+author: sayali
+description: wire arduino
 version: 1.0
 type: lib
 
@@ -62,14 +62,6 @@ libs:
   - origin: https://github.com/mongoose-os-libs/core
   - origin: https://github.com/mongoose-os-libs/arduino-compat
   - origin: https://github.com/mongoose-os-libs/i2c
-
-  
-
-
-  
-  
-  
-
 
 # Used by the mos tool to catch mos binaries incompatible with this file format
 manifest_version: 2017-09-29
